@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const Main = () => {
+const About = () => {
 
     return (
         <>
@@ -17,4 +17,4 @@ const Main = () => {
 
 }
 
-export default Main
+export default About
