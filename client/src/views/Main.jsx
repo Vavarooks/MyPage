@@ -7,10 +7,12 @@ const Main = () => {
         <>
 
             <div className='container d-block mx-auto w-50 my-3 p-3' >
-                <p>Welcome!</p>
-                <p>Look here!</p>
-                <p> Added </p>
-                <p> More added to the page</p>
+                <h1>My Projects</h1>
+                <p>Fantasy Adventure Online</p>
+                <p>Art Board</p>
+                <p>Chatter Box</p>
+                <p>Twisted Love</p>
+                <p>ECR Files</p>
             </div>
         </>
     )

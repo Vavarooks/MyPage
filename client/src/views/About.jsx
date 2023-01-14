@@ -7,10 +7,10 @@ const About = () => {
         <>
 
             <div className='container d-block mx-auto w-50 my-3 p-3' >
-                <p>Welcome!</p>
-                <p>Look here!</p>
-                <p> Added </p>
-                <p> More added to the page</p>
+                <h1>About Me</h1>
+                <p>School I graduated from</p>
+                <p>My Goals, My Dreams</p>
+                <p>My Skills: Python, Javascript, Java, MySQL, MongooseDB</p>
             </div>
         </>
     )

@@ -7,10 +7,9 @@ const Contact = () => {
         <>
 
             <div className='container d-block mx-auto w-50 my-3 p-3' >
-                <p>Welcome!</p>
-                <p>Look here!</p>
-                <p> Added </p>
-                <p> More added to the page</p>
+                <h1>This is the contact page</h1>
+                <p>Email</p>
+                <p>GitHub</p>
             </div>
         </>
     )
